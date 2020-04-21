@@ -66,7 +66,7 @@
     "url": "https://github.com/muaz-khan/RTCMultiConnection/issues",
     "email": "muazkh@gmail.com"
   },
-  "homepage": "https://rtcmulticonnection.herokuapp.com/demos/",
+  "homepage": "http://ejemplo-node.apimanager.veanx.com/demos/",
   "tonicExampleFilename": "npm-test.js",
   "_from": "rtcmulticonnection@",
   "devDependencies": {
