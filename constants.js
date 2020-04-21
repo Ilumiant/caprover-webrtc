@@ -1,4 +1,4 @@
-const API_URL = "http://0.0.0.0/reportes_mineral_API/public/api/v1"
+const API_URL = "http://191.89.194.170/antofagasta/public/api/v1"
 
 module.exports = {
     API_URL,
